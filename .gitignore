@@ -7,6 +7,7 @@ db.sqlite3
 media
 helpp
 serviceAccountKey.json
+.vscode
 
 # Backup files #
 *.bak
